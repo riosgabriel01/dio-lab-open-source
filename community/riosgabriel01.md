@@ -1,10 +1,6 @@
-\## 🚀 Apresentação do Meu Perfil Tech
+Olá! Sou o Gabriel Rios 👋
 
-
-
-Olá! 👋 Sou o Gabriel Rios, profisisonal analista de dados formado em Tecnologia da Informação.
-
-
+✨ Profisisonal analista de dados formado em Tecnologia da Informação.
 
 ---
 
