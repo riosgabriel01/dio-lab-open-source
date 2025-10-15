@@ -1,4 +1,4 @@
-Olá! Sou o Gabriel Rios 👋
+Olá! Eu sou Gabriel Pires Rios 👋
 
 ✨ Profisisonal analista de dados formado em Tecnologia da Informação.
 
